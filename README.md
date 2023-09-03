@@ -22,8 +22,5 @@ In this, I have demonstrated the use of SQL Queries by using a  csv file, which 
 
 ## Code 
 
-* [Code](code/DbConnection.java)
-* [Code](code/Delete.java)
-* [Code](code/Insert.java)
-* [Code](code/SQL database.sql)
-* [Code](code/TestConn.java)
+* [Code](code/CARS.sql)
+
